@@ -33,8 +33,11 @@ body {
 #post {
     padding: 1em;
 }
-img {
+#cabecera img {
     height: 50px;
+}
+#post img {
+    max-width: 100%;
 }
 footer {
     background: #33A;
